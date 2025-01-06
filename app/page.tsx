@@ -7,15 +7,11 @@ import {
   Card,
   CardContent,
   Container,
-  useMediaQuery,
-  useTheme,
   Fab,
   CardMedia
 } from '@mui/material'
 
 const LandingPage = () => {
-  const theme = useTheme()
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'))
   const [showScrollTop, setShowScrollTop] = useState(false)
 
   useEffect(() => {
