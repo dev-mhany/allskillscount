@@ -45,14 +45,14 @@ const LandingPage = () => {
               <Typography
                 variant='h1'
                 sx={{
-                  fontSize: { xs: '2.5rem', md: '3.5rem', lg: '4rem' },
+                  fontSize: { xs: '1.5rem', md: '2.5rem', lg: '3rem' },
                   fontWeight: 800,
                   marginBottom: 3,
                   color: '#1A1A1A',
                   lineHeight: 1.2
                 }}
               >
-                Unleash Your Online Potential with Our Creative Web Agency
+                T3 Applications in Support of Skills-based Hiring and Advancement
               </Typography>
               <Typography
                 sx={{
