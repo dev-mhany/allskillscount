@@ -243,7 +243,7 @@ const LandingPage = () => {
                 </Typography>
                 <Button
                   variant='contained'
-                  href='https://www.opencreds.net/'
+                  href='https://linkedclaims-author.allskillscount.org/'
                   target='_blank'
                   rel='noopener noreferrer'
                   sx={{
@@ -255,7 +255,7 @@ const LandingPage = () => {
                     }
                   }}
                 >
-                  Try Now
+                  Try it Now
                 </Button>
               </CardContent>
             </Card>
@@ -311,7 +311,7 @@ const LandingPage = () => {
                     }
                   }}
                 >
-                  Try Now
+                  Try it Now
                 </Button>
               </CardContent>
             </Card>
